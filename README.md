@@ -4,6 +4,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Results](#results)
+4. [Contributor](#contributor)
 
 ## Installation <a name="installation"></a>
 
