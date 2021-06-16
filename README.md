@@ -23,3 +23,7 @@ For this project, I was interestested in using Boston AirBNB data from April 202
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://poltitor.medium.com/how-to-choose-your-airbnb-room-in-boston-f2530aee3791).
+
+## Contributor
+- Panjapol Ampornratana
+
